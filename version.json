@@ -1,5 +1,5 @@
 {
-    "version": 1.0,
+    "version": 1.1,
     "download_url": "https://github.com/ohoachuck/alfred2-resize/blob/master/Resize.alfredworkflow",
-    "description": "Initial version."
+    "description": "Fix a regression bug while selecting multiple images."
 }
